@@ -79,7 +79,7 @@ function App({ demo = false }: PropsType) {
           </Routes>
         </Container>
         <div>
-          its my changes 1 conflict
+          its my changes
         </div>
       </div>
     </BrowserRouter>
