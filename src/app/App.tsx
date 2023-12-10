@@ -79,7 +79,8 @@ function App({ demo = false }: PropsType) {
           </Routes>
         </Container>
         <div>
-          its my changes 1
+          And here is change by Yafim
+          its my changes
         </div>
       </div>
     </BrowserRouter>
